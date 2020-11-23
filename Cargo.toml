@@ -1,5 +1,5 @@
 [package]
-name = "ViGaCo"
+name = "vigaco"
 version = "0.1.0"
 authors = ["Philip Borgström <philip.borgstrom@gmail.com>"]
 edition = "2018"
