@@ -1,5 +1,0 @@
-package vigaco.controller;
-
-message Click_Event {
-    
-}
